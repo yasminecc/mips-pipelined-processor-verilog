@@ -37,7 +37,7 @@ Each module has been tested individually with dedicated testbenches, and full in
 
 ---
 
-## ▶ How to Simulate
+##  How to Simulate
 
 1. Open ModelSim or your Verilog simulator.
 2. Compile and run the full processor:
