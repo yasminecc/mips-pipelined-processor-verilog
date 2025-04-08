@@ -6,7 +6,7 @@ Each module has been tested individually with dedicated testbenches, and full in
 
 ---
 
-## 🔧 Features
+##  Features
 
 - **5-stage pipeline:** IF, ID, EX, MEM, WB
 - Modular Verilog design with clear separation of:
@@ -21,7 +21,7 @@ Each module has been tested individually with dedicated testbenches, and full in
 
 ---
 
-## 📁 Key Files
+##  Key Files
 
 | File               | Description                                          |
 |--------------------|------------------------------------------------------|
@@ -37,7 +37,7 @@ Each module has been tested individually with dedicated testbenches, and full in
 
 ---
 
-## ▶️ How to Simulate
+## ▶ How to Simulate
 
 1. Open ModelSim or your Verilog simulator.
 2. Compile and run the full processor:
@@ -52,14 +52,14 @@ run -all
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Pipeline hazard detection is not implemented in this version.
 - `top_tb.v` includes simple stimuli that execute a MIPS instruction sequence.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Yasmine Elsisi**  
 Computer Engineering @ NYU Abu Dhabi  
